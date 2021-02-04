@@ -1,0 +1,14 @@
+{
+  "name": "mordern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w -r scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
